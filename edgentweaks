@@ -227,7 +227,7 @@
         syncConfig()
         showColumn()
        // skipVideo()
-    }
+    } give answers()
     window.masterloop = setInterval(loop, 1000);
 })();
 
